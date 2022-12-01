@@ -1,2 +1,2 @@
 # Obsidian Apatheia
-![screenschot](./promo_screenshot.png "Apatheia theme")
+!["Apatheia theme Screenshot"](/promo_screenshot.png)
