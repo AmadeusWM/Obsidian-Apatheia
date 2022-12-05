@@ -1,5 +1,5 @@
 # Obsidian Apatheia
-![Apatheia theme Screenshot](promo_screenshot.png)
+![Apatheia theme Screenshot](assets/promo_screenshot1920x1200.png)
 
 Use the [Style Settings Plugin](https://github.com/mgmeyers/obsidian-style-settings) to change the color scheme, fonts, border radius, and such.
 
