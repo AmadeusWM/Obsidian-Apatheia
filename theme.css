@@ -665,11 +665,11 @@ For reference, check the Obsidian style settings repo
   --ap-base0-l: 7.6470588235%;
   --ap-base0-d: 20%;
   --ap-base0: #0F0D1A;
-  --ap-base1-h: 249.2307692308deg;
-  --ap-base1-s: 33.3333333333%;
-  --ap-base1-l: 10.6470588235%;
+  --ap-base1-h: 250deg;
+  --ap-base1-s: 23.0769230769%;
+  --ap-base1-l: 5.0980392157%;
   --ap-base1-d: 20%;
-  --ap-base1: #151224;
+  --ap-base1: #0B0A10;
   --ap-red: #f38ba8;
   --ap-green: #a6e3a1;
   --ap-blue: #89b4fa;
@@ -692,7 +692,7 @@ For reference, check the Obsidian style settings repo
   --ap-code-aqua: var(--ap-aqua);
   --ap-code-yellow: var(--ap-yellow);
   --ap-code-orange: var(--ap-orange);
-  --ap-color-dp0: #151224;
+  --ap-color-dp0: #0B0A10;
   --ap-color-dp1: #0F0D1A;
   --ap-color-dp2: hsl(249.2307692308deg, 33.3333333333%, 12.6470588235%);
   --ap-color-dp3: hsl(249.2307692308deg, 33.3333333333%, 17.6470588235%);
