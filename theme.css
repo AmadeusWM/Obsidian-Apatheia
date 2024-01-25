@@ -19,7 +19,8 @@ For reference, check the Obsidian style settings repo
 /* ----------------------------
         Private Functions
 ---------------------------- */
-@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Anybody:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Archivo+Narrow:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Archivo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Asap:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Assistant:wght@200;300;400;500;600;700;800&family=Azeret+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Baloo+2:wght@400;500;600;700;800&family=Besley:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Bitter:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;0,6..96,600;0,6..96,700;0,6..96,800;0,6..96,900;1,6..96,400;1,6..96,500;1,6..96,600;1,6..96,700;1,6..96,800;1,6..96,900&family=Cabin:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Cairo+Play:wght@200;300;400;500;600;700;800;900;1000&family=Cairo:wght@200;300;400;500;600;700;800;900;1000&family=Catamaran:wght@100;200;300;400;500;600;700;800;900&family=Cinzel:wght@400;500;600;700;800;900&family=Comfortaa:wght@300;400;500;600;700&family=Crimson+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Domine:wght@400;500;600;700&family=Dosis:wght@200;300;400;500;600;700;800&family=EB+Garamond:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,500;1,600;1,700;1,800&family=Encode+Sans:wght@100;200;300;400;500;600;700;800;900&family=Epilogue:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Exo+2:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Figtree:wght@300;400;500;600;700;800;900&family=Finlandica:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Fira+Code:wght@300;400;500;600;700&family=Heebo:wght@100;200;300;400;500;600;700;800;900&family=Inconsolata:wght@200;300;400;500;600;700;800;900&family=Inter:wght@100;200;300;400;500;600;700;800;900&family=JetBrains+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Jura:wght@300;400;500;600;700&family=Karla:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&family=Lexend+Deca:wght@100;200;300;400;500;600;700;800;900&family=Lexend+Exa:wght@100;200;300;400;500;600;700;800;900&family=Lexend:wght@100;200;300;400;500;600;700;800;900&family=Libre+Franklin:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=M+PLUS+1+Code:wght@100;200;300;400;500;600;700&family=M+PLUS+1:wght@100;200;300;400;500;600;700;800;900&family=Manrope:wght@200;300;400;500;600;700;800&family=Maven+Pro:wght@400;500;600;700;800;900&family=Merriweather+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Mulish:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&family=MuseoModerno:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Nabla&family=Noto+Sans+Display:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Noto+Sans+Mono:wght@100;200;300;400;500;600;700;800;900&family=Nunito:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;0,1000;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900;1,1000&family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Oswald:wght@200;300;400;500;600;700&family=Outfit:wght@100;200;300;400;500;600;700;800;900&family=Overpass+Mono:wght@300;400;500;600;700&family=Overpass:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Podkova:wght@400;500;600;700;800&family=Public+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Quicksand:wght@300;400;500;600;700&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Readex+Pro:wght@200;300;400;500;600;700&family=Recursive:wght@300;400;500;600;700;800;900;1000&family=Red+Hat+Display:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Red+Hat+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Red+Hat+Text:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Red+Rose:wght@300;400;500;600;700&family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Rosario:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=STIX+Two+Text:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Saira:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Signika+Negative:wght@300;400;500;600;700&family=Signika:wght@300;400;500;600;700&family=Source+Code+Pro:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Space+Grotesk:wght@300;400;500;600;700&family=Syne:wght@400;500;600;700;800&family=Vollkorn:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap"); /*
+
+/*
 This is a simple function library to generate Obsidian Style settings with scss.
 @author @Zenneh
 
@@ -1512,5 +1513,427 @@ Plugins
 name: Apatheia
 id: ap-theme
 settings:
-		-				id: ap-radius-s 				title: Border radius S 				description: variable-number-slider 				type: variable-number-slider 				default: 4 				min: 0 				max: 20 				step: px 				format: px 		-				id: ap-radius-m 				title: Border radius M 				description: variable-number-slider 				type: variable-number-slider 				default: 8 				min: 0 				max: 20 				step: px 				format: px 		-				id: ap-radius-l 				title: Border radius L 				description: variable-number-slider 				type: variable-number-slider 				default: 10 				min: 0 				max: 20 				step: px 				format: px 		-				id: a-theme-settings 				title: Theme settings 				description: Change theme appearance here 				type: heading 				level: 1 				collapsed: true 		-				id: theme-dark 				title: Theme variant 				description: Select theme variant 				type: class-select 				default: a-theme-apatheia 				allowEmpty: false 				options:						-								label: 🗿 Apatheia								value: a-theme-apatheia						-								label: 👾 Purple								value: a-theme-purple						-								label: 🌿 Catpuccin Mocha								value: a-catpuccin-mocha						-								label: ☕ Catpuccin Espresso								value: a-catpuccin-espresso						-								label: ❄ Winter								value: a-winter		-				id: a-theme-purple-settings 				title: Test theme settings 				description: Settings for the test theme 				type: heading 				level: 2 				collapsed: true 		-				id: a-theme-purple-test 				title: Toggle test 				description: toggle to test 				type: class-toggle 		-				id: a-effect-settings 				title: Effects 				description: Add effects 				type: heading 				level: 1 				collapsed: true 		-				id: glassMorphism 				title: Glassmorphism 				description: Add glassmorphism to your theme 				type: class-toggle 		-				id: smoothIndent 				title: Smooth indent 				description: Smooth Indent headers. Vim users may experience weird glitches 				type: class-toggle 		-				id: Fade 				title: Fade 				description: Fade 				type: class-toggle 		-				id: Hover 				title: Hover effect 				description: On hover transition on components 				type: class-toggle 		-				id: a-font-settings 				title: Fonts 				description: Select fonts 				type: heading 				level: 1 				collapsed: true 		-				id: inline-title-font 				title: Title font 				description: Change title font 				type: variable-select 				default: Open Sans 				options:						- Alegreya						- Anybody						- Archivo						- Archivo Narrow						- Asap						- Assistant						- Azeret Mono						- Baloo 2						- Besley						- Bitter						- Bodoni Moda						- Cabin						- Cairo						- Cairo Play						- Catamaran						- Cinzel						- Comfortaa						- Crimson Pro						- Domine						- Dosis						- EB Garamond						- Encode Sans						- Epilogue						- Exo 2						- Figtree						- Finlandica						- Heebo						- Inconsolata						- Inter						- Josefin Sans						- Jost						- Jura						- Karla						- Lexend						- Lexend Deca						- Lexend Exa						- Libre Franklin						- Lora						- M PLUS 1						- Manrope						- Maven Pro						- Merriweather Sans						- Montserrat						- Mulish						- MuseoModerno						- Noto Sans Display						- Nunito						- Open Sans						- Oswald						- Outfit						- Overpass						- Podkova						- Public Sans						- Quicksand						- Raleway						- Readex Pro						- Recursive						- Red Hat Display						- Red Hat Text						- Red Rose						- Rosario						- Rubik						- STIX Two Text						- Saira						- Signika						- Signika Negative						- Space Grotesk						- Syne						- Vollkorn						- Work Sans						- Yanone Kaffeesatz		-				id: font-interface 				title: Interface font 				description: Change interface font 				type: variable-select 				default: Open Sans 				options:						- Alegreya						- Anybody						- Archivo						- Archivo Narrow						- Asap						- Assistant						- Azeret Mono						- Baloo 2						- Besley						- Bitter						- Bodoni Moda						- Cabin						- Cairo						- Cairo Play						- Catamaran						- Cinzel						- Comfortaa						- Crimson Pro						- Domine						- Dosis						- EB Garamond						- Encode Sans						- Epilogue						- Exo 2						- Figtree						- Finlandica						- Heebo						- Inconsolata						- Inter						- Josefin Sans						- Jost						- Jura						- Karla						- Lexend						- Lexend Deca						- Lexend Exa						- Libre Franklin						- Lora						- M PLUS 1						- Manrope						- Maven Pro						- Merriweather Sans						- Montserrat						- Mulish						- MuseoModerno						- Noto Sans Display						- Nunito						- Open Sans						- Oswald						- Outfit						- Overpass						- Podkova						- Public Sans						- Quicksand						- Raleway						- Readex Pro						- Recursive						- Red Hat Display						- Red Hat Text						- Red Rose						- Rosario						- Rubik						- STIX Two Text						- Saira						- Signika						- Signika Negative						- Space Grotesk						- Syne						- Vollkorn						- Work Sans						- Yanone Kaffeesatz		-				id: font-text 				title: Text font 				description: Change text font 				type: variable-select 				default: Open Sans 				options:						- Alegreya						- Anybody						- Archivo						- Archivo Narrow						- Asap						- Assistant						- Azeret Mono						- Baloo 2						- Besley						- Bitter						- Bodoni Moda						- Cabin						- Cairo						- Cairo Play						- Catamaran						- Cinzel						- Comfortaa						- Crimson Pro						- Domine						- Dosis						- EB Garamond						- Encode Sans						- Epilogue						- Exo 2						- Figtree						- Finlandica						- Heebo						- Inconsolata						- Inter						- Josefin Sans						- Jost						- Jura						- Karla						- Lexend						- Lexend Deca						- Lexend Exa						- Libre Franklin						- Lora						- M PLUS 1						- Manrope						- Maven Pro						- Merriweather Sans						- Montserrat						- Mulish						- MuseoModerno						- Noto Sans Display						- Nunito						- Open Sans						- Oswald						- Outfit						- Overpass						- Podkova						- Public Sans						- Quicksand						- Raleway						- Readex Pro						- Recursive						- Red Hat Display						- Red Hat Text						- Red Rose						- Rosario						- Rubik						- STIX Two Text						- Saira						- Signika						- Signika Negative						- Space Grotesk						- Syne						- Vollkorn						- Work Sans						- Yanone Kaffeesatz		-				id: font-monospace 				title: Monospace font 				description: Change the monospace font 				type: variable-select 				default: Source code pro 				options:						- Alegreya						- Anybody						- Archivo						- Archivo Narrow						- Asap						- Assistant						- Azeret Mono						- Baloo 2						- Besley						- Bitter						- Bodoni Moda						- Cabin						- Cairo						- Cairo Play						- Catamaran						- Cinzel						- Comfortaa						- Crimson Pro						- Domine						- Dosis						- EB Garamond						- Encode Sans						- Epilogue						- Exo 2						- Figtree						- Finlandica						- Heebo						- Inconsolata						- Inter						- Josefin Sans						- Jost						- Jura						- Karla						- Lexend						- Lexend Deca						- Lexend Exa						- Libre Franklin						- Lora						- M PLUS 1						- Manrope						- Maven Pro						- Merriweather Sans						- Montserrat						- Mulish						- MuseoModerno						- Noto Sans Display						- Nunito						- Open Sans						- Oswald						- Outfit						- Overpass						- Podkova						- Public Sans						- Quicksand						- Raleway						- Readex Pro						- Recursive						- Red Hat Display						- Red Hat Text						- Red Rose						- Rosario						- Rubik						- STIX Two Text						- Saira						- Signika						- Signika Negative						- Space Grotesk						- Syne						- Vollkorn						- Work Sans						- Yanone Kaffeesatz
+		-
+				id: ap-radius-s 
+				title: Border radius S 
+				description: variable-number-slider 
+				type: variable-number-slider 
+				default: 4 
+				min: 0 
+				max: 20 
+				step: px 
+				format: px 
+		-
+				id: ap-radius-m 
+				title: Border radius M 
+				description: variable-number-slider 
+				type: variable-number-slider 
+				default: 8 
+				min: 0 
+				max: 20 
+				step: px 
+				format: px 
+		-
+				id: ap-radius-l 
+				title: Border radius L 
+				description: variable-number-slider 
+				type: variable-number-slider 
+				default: 10 
+				min: 0 
+				max: 20 
+				step: px 
+				format: px 
+		-
+				id: a-theme-settings 
+				title: Theme settings 
+				description: Change theme appearance here 
+				type: heading 
+				level: 1 
+				collapsed: true 
+		-
+				id: theme-dark 
+				title: Theme variant 
+				description: Select theme variant 
+				type: class-select 
+				default: a-theme-apatheia 
+				allowEmpty: false 
+				options:
+
+						-
+								label: 🗿 Apatheia
+								value: a-theme-apatheia
+
+						-
+								label: 👾 Purple
+								value: a-theme-purple
+
+						-
+								label: 🌿 Catpuccin Mocha
+								value: a-catpuccin-mocha
+
+						-
+								label: ☕ Catpuccin Espresso
+								value: a-catpuccin-espresso
+
+						-
+								label: ❄ Winter
+								value: a-winter
+		-
+				id: a-theme-purple-settings 
+				title: Test theme settings 
+				description: Settings for the test theme 
+				type: heading 
+				level: 2 
+				collapsed: true 
+		-
+				id: a-theme-purple-test 
+				title: Toggle test 
+				description: toggle to test 
+				type: class-toggle 
+		-
+				id: a-effect-settings 
+				title: Effects 
+				description: Add effects 
+				type: heading 
+				level: 1 
+				collapsed: true 
+		-
+				id: glassMorphism 
+				title: Glassmorphism 
+				description: Add glassmorphism to your theme 
+				type: class-toggle 
+		-
+				id: smoothIndent 
+				title: Smooth indent 
+				description: Smooth Indent headers. Vim users may experience weird glitches 
+				type: class-toggle 
+		-
+				id: Fade 
+				title: Fade 
+				description: Fade 
+				type: class-toggle 
+		-
+				id: Hover 
+				title: Hover effect 
+				description: On hover transition on components 
+				type: class-toggle 
+		-
+				id: a-font-settings 
+				title: Fonts 
+				description: Select fonts 
+				type: heading 
+				level: 1 
+				collapsed: true 
+		-
+				id: inline-title-font 
+				title: Title font 
+				description: Change title font 
+				type: variable-select 
+				default: Open Sans 
+				options:
+						- Alegreya
+						- Anybody
+						- Archivo
+						- Archivo Narrow
+						- Asap
+						- Assistant
+						- Azeret Mono
+						- Baloo 2
+						- Besley
+						- Bitter
+						- Bodoni Moda
+						- Cabin
+						- Cairo
+						- Cairo Play
+						- Catamaran
+						- Cinzel
+						- Comfortaa
+						- Crimson Pro
+						- Domine
+						- Dosis
+						- EB Garamond
+						- Encode Sans
+						- Epilogue
+						- Exo 2
+						- Figtree
+						- Finlandica
+						- Heebo
+						- Inconsolata
+						- Inter
+						- Josefin Sans
+						- Jost
+						- Jura
+						- Karla
+						- Lexend
+						- Lexend Deca
+						- Lexend Exa
+						- Libre Franklin
+						- Lora
+						- M PLUS 1
+						- Manrope
+						- Maven Pro
+						- Merriweather Sans
+						- Montserrat
+						- Mulish
+						- MuseoModerno
+						- Noto Sans Display
+						- Nunito
+						- Open Sans
+						- Oswald
+						- Outfit
+						- Overpass
+						- Podkova
+						- Public Sans
+						- Quicksand
+						- Raleway
+						- Readex Pro
+						- Recursive
+						- Red Hat Display
+						- Red Hat Text
+						- Red Rose
+						- Rosario
+						- Rubik
+						- STIX Two Text
+						- Saira
+						- Signika
+						- Signika Negative
+						- Space Grotesk
+						- Syne
+						- Vollkorn
+						- Work Sans
+						- Yanone Kaffeesatz
+		-
+				id: font-interface 
+				title: Interface font 
+				description: Change interface font 
+				type: variable-select 
+				default: Open Sans 
+				options:
+						- Alegreya
+						- Anybody
+						- Archivo
+						- Archivo Narrow
+						- Asap
+						- Assistant
+						- Azeret Mono
+						- Baloo 2
+						- Besley
+						- Bitter
+						- Bodoni Moda
+						- Cabin
+						- Cairo
+						- Cairo Play
+						- Catamaran
+						- Cinzel
+						- Comfortaa
+						- Crimson Pro
+						- Domine
+						- Dosis
+						- EB Garamond
+						- Encode Sans
+						- Epilogue
+						- Exo 2
+						- Figtree
+						- Finlandica
+						- Heebo
+						- Inconsolata
+						- Inter
+						- Josefin Sans
+						- Jost
+						- Jura
+						- Karla
+						- Lexend
+						- Lexend Deca
+						- Lexend Exa
+						- Libre Franklin
+						- Lora
+						- M PLUS 1
+						- Manrope
+						- Maven Pro
+						- Merriweather Sans
+						- Montserrat
+						- Mulish
+						- MuseoModerno
+						- Noto Sans Display
+						- Nunito
+						- Open Sans
+						- Oswald
+						- Outfit
+						- Overpass
+						- Podkova
+						- Public Sans
+						- Quicksand
+						- Raleway
+						- Readex Pro
+						- Recursive
+						- Red Hat Display
+						- Red Hat Text
+						- Red Rose
+						- Rosario
+						- Rubik
+						- STIX Two Text
+						- Saira
+						- Signika
+						- Signika Negative
+						- Space Grotesk
+						- Syne
+						- Vollkorn
+						- Work Sans
+						- Yanone Kaffeesatz
+		-
+				id: font-text 
+				title: Text font 
+				description: Change text font 
+				type: variable-select 
+				default: Open Sans 
+				options:
+						- Alegreya
+						- Anybody
+						- Archivo
+						- Archivo Narrow
+						- Asap
+						- Assistant
+						- Azeret Mono
+						- Baloo 2
+						- Besley
+						- Bitter
+						- Bodoni Moda
+						- Cabin
+						- Cairo
+						- Cairo Play
+						- Catamaran
+						- Cinzel
+						- Comfortaa
+						- Crimson Pro
+						- Domine
+						- Dosis
+						- EB Garamond
+						- Encode Sans
+						- Epilogue
+						- Exo 2
+						- Figtree
+						- Finlandica
+						- Heebo
+						- Inconsolata
+						- Inter
+						- Josefin Sans
+						- Jost
+						- Jura
+						- Karla
+						- Lexend
+						- Lexend Deca
+						- Lexend Exa
+						- Libre Franklin
+						- Lora
+						- M PLUS 1
+						- Manrope
+						- Maven Pro
+						- Merriweather Sans
+						- Montserrat
+						- Mulish
+						- MuseoModerno
+						- Noto Sans Display
+						- Nunito
+						- Open Sans
+						- Oswald
+						- Outfit
+						- Overpass
+						- Podkova
+						- Public Sans
+						- Quicksand
+						- Raleway
+						- Readex Pro
+						- Recursive
+						- Red Hat Display
+						- Red Hat Text
+						- Red Rose
+						- Rosario
+						- Rubik
+						- STIX Two Text
+						- Saira
+						- Signika
+						- Signika Negative
+						- Space Grotesk
+						- Syne
+						- Vollkorn
+						- Work Sans
+						- Yanone Kaffeesatz
+		-
+				id: font-monospace 
+				title: Monospace font 
+				description: Change the monospace font 
+				type: variable-select 
+				default: Source code pro 
+				options:
+						- Alegreya
+						- Anybody
+						- Archivo
+						- Archivo Narrow
+						- Asap
+						- Assistant
+						- Azeret Mono
+						- Baloo 2
+						- Besley
+						- Bitter
+						- Bodoni Moda
+						- Cabin
+						- Cairo
+						- Cairo Play
+						- Catamaran
+						- Cinzel
+						- Comfortaa
+						- Crimson Pro
+						- Domine
+						- Dosis
+						- EB Garamond
+						- Encode Sans
+						- Epilogue
+						- Exo 2
+						- Figtree
+						- Finlandica
+						- Heebo
+						- Inconsolata
+						- Inter
+						- Josefin Sans
+						- Jost
+						- Jura
+						- Karla
+						- Lexend
+						- Lexend Deca
+						- Lexend Exa
+						- Libre Franklin
+						- Lora
+						- M PLUS 1
+						- Manrope
+						- Maven Pro
+						- Merriweather Sans
+						- Montserrat
+						- Mulish
+						- MuseoModerno
+						- Noto Sans Display
+						- Nunito
+						- Open Sans
+						- Oswald
+						- Outfit
+						- Overpass
+						- Podkova
+						- Public Sans
+						- Quicksand
+						- Raleway
+						- Readex Pro
+						- Recursive
+						- Red Hat Display
+						- Red Hat Text
+						- Red Rose
+						- Rosario
+						- Rubik
+						- STIX Two Text
+						- Saira
+						- Signika
+						- Signika Negative
+						- Space Grotesk
+						- Syne
+						- Vollkorn
+						- Work Sans
+						- Yanone Kaffeesatz
 */
